@@ -1,0 +1,182 @@
+# Gemini Man Stage
+Nitron (Blue)
+Bomber Pepe
+Pole
+Yanbow (Blue)
+Gyoraibo
+Bikky
+Mechakkero (Red)
+Gemini Man
+
+# Needle Man Stage
+Hari Harry
+Cannon
+Metall
+Yanbow (Red)
+Needle Press
+Hammer Joe
+Bikky
+Needle Man
+
+# Spark Man Stage
+Peterchy (Red)
+Electric Gabyoall (Red)
+Elec’n
+Pickleman Bull
+Junk Block
+Bolton and Nutton
+Spark Man
+?Force Blocks?
+
+# Magnet Man Stage
+Mag Fly
+Break Man
+Giany Springer
+Peterchy (Pink)
+Appearing Blocks (Red)
+New Shotman
+Spikes
+Magnet Man
+
+# Hard Man Stage
+Have “Su” Bee
+Wannan (Green)
+Hammer Joe
+Returning Monking
+Pickleman Bull
+Neo Metall
+Chibee
+Break Man
+Bikky
+Hard Man
+
+# Top Man Stage
+Bolton and Nutton
+Mechakkero (Red)
+Komasaburo
+Spikes
+Pickleman Bull
+Neo Metall
+Tama
+Spinning Top Platforms
+Top Man
+
+# Shadow Man Stage
+New Shotman
+Mechakkero (Yellow)
+Break Man
+Peterchy (Red)
+Hologran
+Mechakkero (Red)
+Walking Bomb
+Parasyu
+Yambow (Blue)
+Shadow Man
+
+# Snake Man Stage
+Petit Snakey
+Dada
+Big Snakey
+Potton (Red)
+Bubukan (Red)
+Hammer Joe
+Bubukan (Orange)
+Jamacy (Orange)
+Cloud Platforms
+Bomb Flier
+Snake Man
+
+# Gemini Man Stage (Doc Robot)
+Nitron (Yellow)
+Mechakkero (Yellow)
+Pole
+Potton (Red)
+Doc Robot (Flash Man)
+Spikes
+Gyoraibo
+Jamacy (Orange)
+Doc Robot (Bubble Man)
+
+# Spark Man Stage (Doc Robot)
+Peterchy (Red)
+Elec’n
+Giant Springer
+Doc Robot (Metal Man)
+Spikes
+Bolton and Nutton
+Electric Gabyoall (Red)
+Junk Block
+Doc Robot (Quick Man)
+
+# Needle Man Stage (Doc Robot)
+Hari Harry
+Needle Press
+Giant Springer
+Doc Robot (Air Man)
+Yanbow (Blue)
+Parasyu
+Bubukan (Orange)
+Giant Metall
+Prop Metall
+Cannon
+Doc Robot (Crash Man)
+
+# Shadow Man Stage (Doc Robot)
+Spikes
+Peterchy (Red)
+Bikky
+Walking Bimb
+Hologran
+Separating Platforms
+Doc Robot (Wood Man)
+Hammer Joe
+Parasyu
+Mechakkero (Red)
+Giant Springer
+Doc Robot (Heat Man)
+
+# Break Man Stage
+Break Man
+
+# Wily 1
+Komasaburo
+Spikes
+Pepe
+Hammer Joe
+Appearing Blocks
+Kamegoro Maker
+
+# Wily 2
+Separating Platforms
+Wannan (Green)
+Have “Su” Bee
+Spikes
+Chibee
+Yellow Devil MK II
+
+# Wily 3
+New Shotman
+Walking Bomb
+Hologran
+Hammer Joe
+Bikky
+Spikes
+Holograph Mega Mans
+
+# Wily 4
+Junk Block
+Junk Golem
+Snake Man
+Needle Man
+Shadow Man
+Top Man
+Spark Man
+Gemini Man
+Hard Man
+Magnet Man
+
+# Wily 5
+Wily Machine 3
+
+# Wily 6
+Gamma

@@ -1,0 +1,63 @@
+# Bosses
+copy robot
+cwu-01p (yellow)
+cwu-01p (blue)
+cwu-01p (green)
+cwu-01p (pink)
+cwu-01p (red)
+cwu-01p (orange)
+cwu-01p (magenta)
+yellow devil
+wily machine 1
+
+# Enemies & Hazards
+appearing blocks (blue)
+appearing blocks (brown)
+beak (blue)
+beak (red)
+big eye (red)
+big eye (gold)
+big eye (blue)
+blader (blue)
+blader (green)
+bombomb (blue)
+bombomb (red)
+crazy razy
+drop lift (green)
+drop lift (red)
+electric arc
+fire bolt
+flea (blue)
+flea (red)
+flying bullet (blue)
+flying bullet (red)
+flying bullet (orange)
+flying shell
+foot holder (green)
+foot holder (orange)
+met
+octopus battery (blue)
+octopus battery (orange)
+octopus battery (red)
+peng
+picket man
+screw bomber (blue)
+screw bomber (orange)
+screw bomber (red)
+sniper joe
+spine (blue)
+spine (orange)
+spine (red)
+super cutter
+tackle fire
+watcher
+
+# Robot Masters
+bomb man
+cut man
+elec man
+fire man
+guts man
+ice man
+oil man
+time man

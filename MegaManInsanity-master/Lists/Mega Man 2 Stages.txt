@@ -1,0 +1,112 @@
+# Flash Man Stage
+Flash Man
+Shotman (Red)
+Sniper Armor
+Scworm (Red)
+Blocky (Blue)
+
+# Heat Man Stage
+Heat Man
+Fly Boy (Green)
+Telly
+Springer (Blue)
+Appearing Blocks
+Sniper Armor
+Lava
+
+# Air Man Stage
+Air Man
+Goblin
+Petit Goblin
+Kaminari Goro
+Pipi (Gold/White)
+Copipi (Gold/White)
+Scworm (Red)
+Matasaburo
+
+# Crash Man Stage
+Crash Man
+Telly
+Neo Metall
+Blocky (Blue)
+Pipi (Red/White)
+Copipi (Red/White)
+Shotman (Blue)
+Fly Boy (Red)
+
+# Quick Man Stage
+Quick Man
+Scworm (Red)
+Springer (Blue)
+Force Beam
+Sniper Armor
+
+# Metal Man Stage
+Metal Man
+Press
+Pierrobot
+Blocky (Grey)
+Springer (Grey)
+
+# Wood Man Stage
+Wood Man
+Batton
+Robbit
+Friender
+
+# Bubble Man Stage
+Bubble Man
+Kerog
+Petit Kerog
+Tanishi
+Spike Ball
+Anko
+Shrink
+Claw
+
+# Wily 1
+Pipi (Gold/White)
+Copipi (Gold/White)
+Scworm (Gold)
+Returning Sniper Joe
+Springer (Orange)
+Telly
+Mecha Dragon
+
+# Wily 2
+Fly Boy (Green)
+Spikes
+Shotman (Red)
+Mole
+Press
+Picopico-kun
+
+# Wily 3
+Tanishi
+Spike Ball
+Big Fish
+Shotman (Red)
+Guts Tank
+
+# Wily 4
+Neo Metall
+Spikes
+Telly
+Sniper Armor
+Returning Sniper Joe
+Boobeam Trap
+
+# Wily 5
+Air Man
+Bubble Man
+Quick Man
+Metal Man
+Crash Man
+Wood Man
+Flash Man
+Heat Man
+Wily Machine 2
+
+# Wily 6
+Acid
+Alien

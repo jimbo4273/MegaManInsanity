@@ -1,0 +1,105 @@
+# Cut Man’s Stage
+Cut Man
+Blader (Blue)
+Beak (Red)
+Super Cutter
+Flea (Blue)
+Octopus Battery (Red)
+Flying Shell
+Spikes
+Big Eye (Red/White)
+Screw Bomber (Orange)
+
+# Guts Man’s Stage
+Guts Man
+Met
+Drop Lift (Green)
+Blader (Green)
+Picket Man
+Spikes
+Big Eye (Blue/White)
+
+# Ice Man’s Stage
+Ice Man
+Crazy Razy
+Peng
+Spine (Orange)
+Octopus Battery (Orange)
+Appearing Blocks (Blue)
+Foot Holder (Orange)
+Big Eye (Red/White)
+
+# Bomb Man’s Stage
+Bomb Man
+Flea (Red)
+Bombomb (Blue)
+Screw Bomber (Blue)
+Beak (Orange)
+Sniper Joe
+Killer Bullet (Orange)
+Spine (Orange)
+Spikes
+Octopus Battery (Red)
+
+# Fire Man’s Stage
+Fire Man
+Screw Bomber (Blue)
+Tackle Fire
+Fire Pillar
+Fire Bolt
+Lava
+Fireball
+Killer Bullet (Blue)
+Spine (Blue)
+
+# Elec Man’s Stage
+Elec Man
+Spine (Orange)
+Electric Arc
+Watcher
+Appearing Blocks (Brown)
+Flea (Red)
+Big Eye (Red/White)
+
+# Wily 1
+Yellow Devil
+Big Eye (Red/Gold)
+Fire Pillar
+Spikes
+Flea (Red)
+Killer Bullet (Red)
+Foot Holder (Green)
+
+# Wily 2
+Cut Man
+Elec Man
+Copy Robot
+Blader (Green)
+Spikes
+Screw Bomber (Red)
+Bombomb (Red)
+Octopus Battery (Blue)
+Beak (Blue)
+
+# Wily 3
+CWU-01P - Blue
+CWU-01P - Yellow
+CWU-01P - Green
+CWU-01P - Pink
+CWU-01P - Red
+CWU-01P - Orange
+CWU-01P - Magenta
+Octopus Battery (Red)
+Screw Bomber (Red)
+Peng
+Killer Bullet (Red)
+
+# Wily 4
+Bomb Man
+Fire Man
+Ice Man
+Guts Man
+Wily Machine 1
+Spikes
+Watcher
+Drop Lift (Red)

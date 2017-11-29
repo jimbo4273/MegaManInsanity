@@ -1,0 +1,63 @@
+# Bosses
+alien
+anko
+boobeam trap
+friender
+guts tank
+mecha dragon
+picopico-kun
+wily machine 2
+
+# Enemies and Hazards
+acid
+appearing blocks
+batton
+big fish
+blocky
+changkey
+changkey maker
+claw
+copipi (red/white)
+copipi (red/gold)
+copipi (gold/white)
+fly boy (red)
+fly boy (green)
+goblin
+kaminari goro
+kerog
+kukku
+m-445
+matasaburo
+mole
+monking
+neo metall
+petit goblin
+petit kerog
+pierrobot
+pipi (red/white)
+pipi (red/gold)
+pipi (gold/white)
+press
+returning sniper joe
+robbit
+scworm (red)
+scworm (gold)
+shotman (blue)
+shotman (red)
+shrink
+sniper armor
+springer (blue)
+springer (grey)
+springer (orange)
+tanishi
+telly
+
+# Robot Masters
+air man
+bubble man
+crash man
+flash man
+heat man
+metal man
+quick man
+wood man
